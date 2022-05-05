@@ -1,7 +1,7 @@
 {
   "name": "game",
   "version": "0.1.0",
-  "homepage": "https://y1sak.github.io/react-wordle",
+  "homepage": "https://y1sak.github.io/wordle",
   "private": true,
   "scripts": {
 	"predeploy": "npm run build",
